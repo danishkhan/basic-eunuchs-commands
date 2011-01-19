@@ -57,7 +57,7 @@ Add xkcd image for sudo
 * Useful for when you need to create a directory (folder)
 * cd:
 * Useful for when you want to change the current directory (folder)
-* touch: 
+* touch:
 * rm -rf:
 
 !SLIDE bullets incremental
@@ -81,7 +81,7 @@ Add xkcd image for sudo
 !SLIDE bullets small incremental
 # Finger whoami #
 * finger:
-* whoami:
+* whoami: The concussion checker
 * df:
 
 !SLIDE bullets incremental
