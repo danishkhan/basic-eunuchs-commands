@@ -79,6 +79,9 @@
 
 !SLIDE bullets incremental
 # Quiz #
+* Create a directory named foo then create a file in that directory named bar.
+* Once you have created the directory and file tell me what time the directory was created.
+* Then remove the directory and file.
 
 !SLIDE center
 # Head or Tails #
