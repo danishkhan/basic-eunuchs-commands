@@ -108,6 +108,10 @@
 
 !SLIDE bullets incremental
 # Quiz #
-* Download this file: FILE URL
+* Download this file: http://dl.dropbox.com/u/2622502/unix_presentation.txt
 * Tell me how many lines are in that file.
 * Find the URL that is in the file and then tell me the IP address associated with it.
+
+
+
+
