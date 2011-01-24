@@ -20,7 +20,6 @@
 !SLIDE bullets incremental
 # Quiz #
 * What does finger do?
-* Answer: user information lookup program
 
 !SLIDE center
 # Sudo !! #
