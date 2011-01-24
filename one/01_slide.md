@@ -79,7 +79,7 @@
 
 !SLIDE bullets incremental
 # Quiz #
-* Create a directory named foo then create a file in that directory named bar.
+* Create a directory named foo then create a file in that directory named bar.txt.
 * Once you have created the directory and file tell me what time the directory was created.
 * Then remove the directory and file.
 
@@ -108,3 +108,6 @@
 
 !SLIDE bullets incremental
 # Quiz #
+* Download this file: FILE URL
+* Tell me how many lines are in that file.
+* Find the URL that is in the file and then tell me the IP address associated with it.
