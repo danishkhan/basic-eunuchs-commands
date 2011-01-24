@@ -69,7 +69,7 @@
 * Useful for when you need to create a directory (folder)
 * cd: Change is a beautiful thing
 * Useful for when you want to change the current directory (folder)
-* touch: Can be quiet a powerful tool 
+* touch: Can be a powerful tool 
 * Useful for when you want to create a new file.
 * rm: Delete
 * Useful for removing directories
@@ -106,7 +106,7 @@
 * wc: Counter
 * Useful for counting words and lines in a file
 
-!SLIDE bullets incremental
+!SLIDE smbullets incremental
 # Quiz #
 * Download this file: http://dl.dropbox.com/u/2622502/unix_presentation.txt
 * Tell me how many lines are in that file.
